@@ -23,18 +23,23 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: DIVYA.A
 RegisterNumber:  212222230034
 
+# Placement Data:
 import pandas as pd
 data=pd.read_csv('/content/Placement_Data.csv')
 data.head()
 
+# Salary Data:
 data1=data.copy()
 data1=data1.drop(["sl_no","salary"],axis=1)#remove the specified row or column
 data1.head()
 
+# Checking The null() Function:
 data1.isnull().sum()
 
+# Data Duplicate:
 data1.duplicated().sum()
 
+# Print Data:
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 data1["gender"] = le.fit_transform(data1["gender"])
@@ -47,12 +52,14 @@ data1["specialisation"] = le.fit_transform(data1["specialisation"])
 data1["status"] = le.fit_transform(data1["status"])
 data1
 
+# Data-status:
 x=data1.iloc[:,:-1]
 x
 
 y=data1["status"]
 y
 
+# y_prediction Array:
 from sklearn.model_selection import train_test_split
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state = 0)
 
@@ -62,18 +69,22 @@ lr.fit(x_train,y_train)
 y_pred = lr.predict(x_test)
 y_pred
 
+# Accuracy Value:
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(y_test,y_pred)
 accuracy
 
+# Confusion Array:
 from sklearn.metrics import confusion_matrix
 confusion = confusion_matrix(y_test,y_pred)
 confusion
 
+# Classification Report:
 from sklearn.metrics import classification_report
 classification_report = classification_report(y_test,y_pred)
 print(classification_report)
 
+# Prediction Of LR:
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 */
