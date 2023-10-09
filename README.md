@@ -92,38 +92,38 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output: 
 ### Placement Data:
-![1](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/97400ecc-7ef7-4ee8-a384-85228269522f)
+![1](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/1581e3a6-91fc-485d-ad2c-7db31dea3911)
 
 ### Salary Data:
-![2](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/09b61839-78fc-4cdd-9a1d-fd77712ba852)
+![2](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/cecca214-d654-4f2e-a961-68ec8fbd4f78)
 
 ### Checking The null() Function:
-![3](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/26fffd09-ab35-4ee6-bfd7-45760437e145)
+![3](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/3c44aff4-1a5b-4c93-bc78-345b16407d5a)
 
 ### Data Duplicate:
-![4](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/fafbeb4f-2fd8-494a-b7d4-3039d7823f76)
+![4](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/ade45585-91bf-4e3f-bc8e-02f8d97aa786)
 
 ### Print Data:
-![5](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/56f72605-bfc1-4aad-866a-ba2f280247b7)
+![5](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/cc8a00dd-74be-494b-8581-203cf2a01b1f)
 
 ### Data-status:
-![6(1)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/5ee55782-bec1-4806-97d2-cdec183831a7)
-![6(2)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/d6b348d2-3ca7-4586-81f9-e59ddd674cff)
+![6(1)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/5c8af787-a5c7-423e-8230-2ded03ec5a70)
+![6(2)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/6709c0e8-a370-42c0-bb8a-47d7d9097305)
 
 ### y_prediction Array:
-![7](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/741ff392-73da-48f3-9b5e-e1b65b8ec4f8)
+![7](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/a4e07ef5-9848-4e81-83f3-f587f11d0087)
 
 ### Accuracy Value:
-![8](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/90caf5a2-e040-4c6f-8bea-b09217768995)
+![8](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/68a64017-db66-4f34-91bb-5397ef44e889)
 
 ### Confusion Array:
-![9](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/26bb0778-96e8-418f-a937-fd9d86178171)
+![9](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/39104fc5-8391-4498-b2d8-1289a474534b)
 
 ### Classification Report:
-![10](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/e268c9dc-7a90-4dc4-8057-1fd57a490755)
+![10](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/8f467b39-3edf-4811-bbc6-5000334f0284)
 
 ### Prediction Of LR:
-![11](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/0cea0f2c-f731-4eb8-be33-6d841ef4175f)
+![11](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/f45c80d8-a4f5-4a40-9e97-d51fd2d2eda9)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
