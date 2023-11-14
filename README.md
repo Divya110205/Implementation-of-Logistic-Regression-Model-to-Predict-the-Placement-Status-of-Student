@@ -108,6 +108,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ### Data-status:
 ![6(1)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/5c8af787-a5c7-423e-8230-2ded03ec5a70)
+
+
 ![6(2)](https://github.com/Divya110205/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119404855/6709c0e8-a370-42c0-bb8a-47d7d9097305)
 
 ### y_prediction Array:
